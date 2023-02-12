@@ -3,7 +3,7 @@ package com.company;
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class TicTacToe {
+public class Main {
     static char[][] box = new char[3][3];
     static String Player1 = "", Player2 = "";
     static boolean Player1win = false;
